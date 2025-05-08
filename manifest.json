@@ -1,0 +1,50 @@
+{
+"name": "Uza Moti",
+"short_name": "Moti",
+"description": "Sell My Car In Style.",
+"start_url": "/index.php",
+"scope": ".",
+"background_color": "#F0F8FF",
+"theme_color": "#4A148C",
+"display": "standalone",
+"orientation": "portrait-primary",
+"dir": "ltr",
+"lang": "en-US",
+"icons": [
+  {
+    "src": "img/48.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "img/96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  },
+  {
+    "src": "img/144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  },
+  {
+    "src": "img/192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "img/256.png",
+    "type": "image/png",
+    "sizes": "256x256"
+  },
+  {
+    "src": "img/384.png",
+    "type": "image/png",
+    "sizes": "384x384"
+  },
+  {
+    "src": "img/512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }
+ ]
+}
